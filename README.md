@@ -1,5 +1,5 @@
 # CursoJava-ScreenMatch
-Conteúdo pratico do Curso feitos na Escola Alura - ScreenMatch - Atualizado e aperfeiçoado.
+Conteúdo pratico do Curso feitos na Escola Alura - ScreenMatch - Atualizado, revisado e aperfeiçoado.
 
 # APP - Busca de Filmes e Séries
 
